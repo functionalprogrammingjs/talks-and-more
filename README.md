@@ -43,14 +43,14 @@ proponer un evento. Por favor, incluye:
 
 Contactaremos contigo para confirmar recepción, y buscar la fecha idonea para la charla.
 
+
 >Send an [issue](https://github.com/functionalprogrammingjs/talks-and-more/issues/new) 
 to propose a talk. Please include:
 > * Title of the talk.
 > * Description: a few sentences explaining what you will talk about.
 > * Bio: who are you, and what do you do?
 > * Constraints: we always try to suit your needs.
-
->We will contact you to confirm reception, and find the ideal date for the talk.
+><br>We will contact you to confirm reception, and find the ideal date for the talk.
 
 
 ## Código de conducta / Code of Conduct

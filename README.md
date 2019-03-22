@@ -22,7 +22,7 @@ Sin importar sexo, edad, origen o condición.
 
 **¡Anímate!**
 
-> In [FunctionalJS] (https://www.meetup.com/es-ES/functionalFP/)
+> In FunctionalJS (https://www.meetup.com/es-ES/functionalFP/)
 We are actively looking for talks on functional programming that are related to
 Javascript.<br><br>
 In addition to the talks we are also open to any other type of collaboration that may be
@@ -44,7 +44,7 @@ proponer un evento. Por favor, incluye:
 Contactaremos contigo para confirmar recepción, y buscar la fecha idonea para la charla.
 
 
->Send an [issue](https://github.com/functionalprogrammingjs/talks-and-more/issues/new) 
+>Send an issue (https://github.com/functionalprogrammingjs/talks-and-more/issues/new) 
 to propose a talk. Please include:
 > * **Title** of the talk.
 > * **Description:** a few sentences explaining what you will talk about.
@@ -63,9 +63,10 @@ aportaciones haciendo PR sobre los archivos:
 [código de conducta INGLES](code-of-conduct-en.md)
 
 >To ensure the good vibes and the correct functioning of this meetup,
- we have created a code of conduct that you can read here [code of conduct] (code-of-conduct-en.md)
+ we have created a code of conduct that you can read here (./code-of-conduct-en
+ .md)
  If you believe that this code of conduct can be improved please do not hesitate to send us your
  contributions making a PR on these files:
 
-[código de conducta SPANISH](code-of-conduct-es.md)<br>
-[código de conducta ENGLISH](code-of-conduct-en.md)
+[code of conduct SPANISH](code-of-conduct-es.md)<br>
+[code of conduct ENGLISH](code-of-conduct-en.md)

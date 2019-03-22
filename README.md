@@ -59,7 +59,7 @@ hemos creado un código que lo podes leer aquí [código de conducta](code-of-co
 Si creeis que este código de conducta se puede mejorar por favor no duesi en enviarnos vuestras
 aportaciones haciendo PR sobre los archivos:
 
-[código de conducta ESPAÑOL](code-of-conduct-es.md)
+[código de conducta ESPAÑOL](code-of-conduct-es.md) <br>
 [código de conducta INGLES](code-of-conduct-en.md)
 
 >To ensure the good vibes and the correct functioning of this meetup,
@@ -67,5 +67,5 @@ aportaciones haciendo PR sobre los archivos:
  If you believe that this code of conduct can be improved please do not hesitate to send us your
  contributions making a PR on these files:
 
-[código de conducta SPANISH](code-of-conduct-es.md)
+[código de conducta SPANISH](code-of-conduct-es.md)<br>
 [código de conducta ENGLISH](code-of-conduct-en.md)

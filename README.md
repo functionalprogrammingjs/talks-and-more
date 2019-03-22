@@ -19,18 +19,17 @@ beneficiosa para nuestra comunidad basada en la programación funcional, como po
 realización de workshops, hackathons, o lo que se os ocurra. 
 
 Sin importar sexo, edad, origen o condición.
-¡Anímate *ahora*!
+
+**¡Anímate!**
 
 > In [FunctionalJS] (https://www.meetup.com/es-ES/functionalFP/)
 We are actively looking for talks on functional programming that are related to
-Javascript.
-
-> In addition to the talks we are also open to any other type of collaboration that may be
+Javascript.<br><br>
+In addition to the talks we are also open to any other type of collaboration that may be
 beneficial to our community based on functional programming, such as
 conducting workshops, hackathons, or whatever you can think of.
-
-> Regardless of sex, age, origin or condition.
-C'mon be part of us *now* !
+<br>Regardless of sex, age, origin or condition.
+<br>C'mon be part of us **now** !
 
 ## Envíanos tu propuesta  / Send us your proposal
 

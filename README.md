@@ -7,11 +7,12 @@ Publicaremos los encuentros en [Meetup.com](https://www.meetup.com/es-ES/functio
 ### Aquí encontrarás el [listado de las charlas pasadas y venideras](./talks.md) 
 
 > This repo is meant to organize proposed talks, workshops etc. for our meetings<br>
-We will publish our meetups in [Meetup.com](https://www.meetup.com/es-ES/functionalFP/) <br><br>
+We will publish our meetups in [Meetup.com](https://www.meetup.com/es-ES/functionalFP/) <br>
 ### Here you will find [the list of new and old talks ](./talks.md) 
 
+<hr>
 
-## Propuestas / Proposses
+# Propuestas / Proposses
 
 En [FunctionalJS](https://www.meetup.com/es-ES/functionalFP/)
 estamos buscando activamente charlas sobre programación funcional y que tengan relación con 
@@ -55,8 +56,9 @@ to propose a talk. Please include:
 > * **Constraints:** we always try to suit your needs.
 ><br>We will contact you to confirm reception, and find the ideal date for the talk.
 
+<hr>
 
-## Código de conducta / Code of Conduct
+# Código de conducta / Code of Conduct
 Para asegurarnos el buen rollo y el correctofuncionamiento de este meetup, 
 hemos creado un código que lo podes leer aquí [código de conducta](code-of-conduct-es.md) 
 Si creeis que este código de conducta se puede mejorar por favor no duesi en enviarnos vuestras

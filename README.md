@@ -4,8 +4,11 @@ Este repositorio sirve para organizar las propuestas de nuestros encuentros  de 
  etc.<br>
 Publicaremos los encuentros en [Meetup.com](https://www.meetup.com/es-ES/functionalFP/).
 
+### Aquí encontrarás el [listado de las charlas pasadas y venideras](./talks.md) 
+
 > This repo is meant to organize proposed talks, workshops etc. for our meetings<br>
-We will publish our meetups in [Meetup.com](https://www.meetup.com/es-ES/functionalFP/)
+We will publish our meetups in [Meetup.com](https://www.meetup.com/es-ES/functionalFP/) <br><br>
+### Here you will find [the list of new and old talks ](./talks.md) 
 
 
 ## Propuestas / Proposses

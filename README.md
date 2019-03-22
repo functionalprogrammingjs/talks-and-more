@@ -29,27 +29,27 @@ In addition to the talks we are also open to any other type of collaboration tha
 beneficial to our community based on functional programming, such as
 conducting workshops, hackathons, or whatever you can think of.
 <br>Regardless of sex, age, origin or condition.
-<br>C'mon be part of us **now** !
+<br><br>C'mon be part of us **now** !
 
 ## Envíanos tu propuesta  / Send us your proposal
 
 Envía un [_issue_](https://github.com/functionalprogrammingjs/talks-and-more/issues/new) para 
 proponer un evento. Por favor, incluye:
 
-* Título de la charla.
-* Descripción: unas cuantas frases sobre lo que quieres hablar.
-* Bio de ponente: ¿quién eres, y qué haces en tu tiempo libre?
-* Condicionantes: siempre intentaremos amoldarnos a tus necesidades.
+* **Título** de la charla.
+* **Descripción:** unas cuantas frases sobre lo que quieres hablar.
+* **Bio de ponente:** ¿quién eres, y qué haces en tu tiempo libre?
+* **Condicionantes:** siempre intentaremos amoldarnos a tus necesidades.
 
 Contactaremos contigo para confirmar recepción, y buscar la fecha idonea para la charla.
 
 
 >Send an [issue](https://github.com/functionalprogrammingjs/talks-and-more/issues/new) 
 to propose a talk. Please include:
-> * Title of the talk.
-> * Description: a few sentences explaining what you will talk about.
-> * Bio: who are you, and what do you do?
-> * Constraints: we always try to suit your needs.
+> * **Title** of the talk.
+> * **Description:** a few sentences explaining what you will talk about.
+> * **Bio:** who are you, and what do you do?
+> * **Constraints:** we always try to suit your needs.
 ><br>We will contact you to confirm reception, and find the ideal date for the talk.
 
 

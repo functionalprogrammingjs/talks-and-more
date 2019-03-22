@@ -1,52 +1,61 @@
-# Functional Programming <Talks & more>
+# Talks & more 
 
 Este repositorio sirve para organizar las propuestas de nuestros encuentros  de charlas, workshops,
  etc.<br>
 Publicaremos los encuentros en [Meetup.com](https://www.meetup.com/es-ES/functionalFP/).
 
-
-> This repo is ment to organize propossed talks, workshops etc. for our mettups<br>
+> This repo is meant to organize proposed talks, workshops etc. for our meetings<br>
 We will publish our meetups in [Meetup.com](https://www.meetup.com/es-ES/functionalFP/)
 
 
+## Propuestas / Proposses
 
-## Propuestas
+En [FunctionalJS](https://www.meetup.com/es-ES/functionalFP/)
+estamos buscando activamente charlas sobre programación funcional y que tengan relación con 
+Javascript.
 
-En [MadridJS](http://www.meetup.com/madridjs/)
-estamos buscando activamente charlas sobre JavaScript,
-de unos 40 minutos de duración.
+Además de las charlas también estamos abiertos a cualquier otro tipo de colaboración que pueda ser
+beneficiosa para nuestra comunidad basada en la programación funcional, como podría ser la 
+realización de workshops, hackathons, o lo que se os ocurra. 
+
 Sin importar sexo, edad, origen o condición.
 ¡Anímate *ahora*!
 
-Envía un [_issue_](https://github.com/MadridJs/talks/issues/new) para proponer una charla. Por favor, incluye:
+> In [FunctionalJS] (https://www.meetup.com/es-ES/functionalFP/)
+We are actively looking for talks on functional programming that are related to
+Javascript.
+
+> In addition to the talks we are also open to any other type of collaboration that may be
+beneficial to our community based on functional programming, such as
+conducting workshops, hackathons, or whatever you can think of.
+
+> Regardless of sex, age, origin or condition.
+C'mon be part of us *now* !
+
+## Envíanos tu propuesta  / Send us your proposal
+
+Envía un [_issue_](https://github.com/functionalprogrammingjs/talks-and-more/issues/new) para 
+proponer un evento. Por favor, incluye:
 
 * Título de la charla.
 * Descripción: unas cuantas frases sobre lo que quieres hablar.
 * Bio de ponente: ¿quién eres, y qué haces en tu tiempo libre?
 * Condicionantes: siempre intentaremos amoldarnos a tus necesidades.
 
-Contactaremos contigo para confirmar recepción, y para asignarte fecha tentativa.
-Te avisaremos ya en firme con varias semanas de antelación.
+Contactaremos contigo para confirmar recepción, y buscar la fecha idonea para la charla.
 
-## Call for Proposals
+>Send an [issue](https://github.com/functionalprogrammingjs/talks-and-more/issues/new) 
+to propose a talk. Please include:
+> * Title of the talk.
+> * Description: a few sentences explaining what you will talk about.
+> * Bio: who are you, and what do you do?
+> * Constraints: we always try to suit your needs.
 
-At [MadridJS](http://www.meetup.com/madridjs/)
-we are actively seeking talks about JavaScript,
-about 40 minutes long.
-No matter gender, age, origin or condition.
-Send yours *now*!
+>We will contact you to confirm reception, and find the ideal date for the talk.
 
-Send an [issue](https://github.com/MadridJs/talks/issues/new) to propose a talk. Please include:
 
-* Title of the talk.
-* Description: a few sentences explaining what you will talk about.
-* Bio: who are you, and what do you do?
-* Constraints: we always try to suit your needs.
+## Código de conducta / Code of Conduct
 
-We will contact you to confirm reception, and to assign tentative date.
-We will then notify you with a final date, several weeks in advance.
-
-## Código de conducta
 
 Para asegurarnos que seamos todos tan majos con los demás como hasta ahora,
 hemos elaborado este [código de conducta](codigo-conducta.md) donde viene por escrito.

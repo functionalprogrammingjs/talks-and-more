@@ -32,8 +32,8 @@ conducting workshops, hackathons, or whatever you can think of.
 <br><br>C'mon be part of us **now** !
 
 ## Envíanos tu propuesta  / Send us your proposal
-
-Envía un [_issue_](https://github.com/functionalprogrammingjs/talks-and-more/issues/new) para 
+Envía un [_issue_](https://github.com/functionalprogrammingjs/talks-and-more/issues/new/choose) 
+para 
 proponer un evento. Por favor, incluye:
 
 * **Título** de la charla.
@@ -44,7 +44,7 @@ proponer un evento. Por favor, incluye:
 Contactaremos contigo para confirmar recepción, y buscar la fecha idonea para la charla.
 
 
->Send an issue (https://github.com/functionalprogrammingjs/talks-and-more/issues/new) 
+>Send an issue (https://github.com/functionalprogrammingjs/talks-and-more/issues/new/choose) 
 to propose a talk. Please include:
 > * **Title** of the talk.
 > * **Description:** a few sentences explaining what you will talk about.

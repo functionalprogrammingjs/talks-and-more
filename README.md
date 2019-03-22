@@ -54,17 +54,18 @@ to propose a talk. Please include:
 
 
 ## Código de conducta / Code of Conduct
+Para asegurarnos el buen rollo y el correctofuncionamiento de este meetup, 
+hemos creado un código que lo podes leer aquí [código de conducta](code-of-conduct-es.md) 
+Si creeis que este código de conducta se puede mejorar por favor no duesi en enviarnos vuestras
+aportaciones haciendo PR sobre los archivos:
 
+[código de conducta ESPAÑOL](code-of-conduct-es.md)
+[código de conducta INGLES](code-of-conduct-en.md)
 
-Para asegurarnos que seamos todos tan majos con los demás como hasta ahora,
-hemos elaborado este [código de conducta](codigo-conducta.md) donde viene por escrito.
-Es nuestro compromiso con un ambiente libre de malos rollos.
+>To ensure the good vibes and the correct functioning of this meetup,
+ we have created a code of conduct that you can read here [code of conduct] (code-of-conduct-en.md)
+ If you believe that this code of conduct can be improved please do not hesitate to send us your
+ contributions making a PR on these files:
 
-## Code of Conduct
-
-To ensure that we are all as nice to each other as we have been so far,
-we have adopted this [code of conduct](codigo-conducta.md), right now in Spanish only,
-but you can read our [inspiring](http://www.meetup.com/pdxpython/pages/Code_of_Conduct/)
-[policies](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
-In a nutshell: don't be a jerk to others.
-Contact [Alex Fernández](mailto:alexfernandeznpm@gmail.com) if you have any doubts.
+[código de conducta SPANISH](code-of-conduct-es.md)
+[código de conducta ENGLISH](code-of-conduct-en.md)

@@ -3,8 +3,12 @@
 Este repositorio sirve para organizar las propuestas de nuestros encuentros  de charlas, workshops,
  etc.<br>
 Publicaremos los encuentros en [Meetup.com](https://www.meetup.com/es-ES/functionalFP/).
+
+
+<span color="red">This repo</span> is <span style="color:red">ment</span>
+
 <pre>
-This repo is ment to organize propossed talks, workshops etc. for our 
+<span color="red">This repo</span> is <span style="color:red">ment</span> to organize propossed talks, workshops etc. for our 
 mettups<br>
 We will publish our meetups in [Meetup.com](https://www.meetup.com/es-ES/functionalFP/)
 </pre>

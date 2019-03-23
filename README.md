@@ -75,3 +75,10 @@ aportaciones haciendo PR sobre los archivos:
 
 [code of conduct SPANISH](code-of-conduct-es.md)<br>
 [code of conduct ENGLISH](code-of-conduct-en.md)
+
+
+## Contacto (mantenedores)  / Contact (maintainers)
+
+ * [Maurice Domínguez](mailto:maurice.ronet.dominguez@gmail.com)
+ * [Miguel Martín](mailto:miguel@redradix.com)
+ * [Rodrigo Erades](mailto:rerades@siete3.com)
